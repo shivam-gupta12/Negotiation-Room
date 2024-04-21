@@ -1,7 +1,5 @@
 # PROJECT - NEGOTIATION ENGINE 
 
-# Link to website - http://34.100.154.199:8080 
-
 An application to achieve convergence of both parties in their negotiation by giving helpful suggestions and middle ground without any bias.
 
 Developers : Harsh Kamdar & Shivam Gupta
